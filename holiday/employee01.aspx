@@ -7,6 +7,7 @@
     <title></title>
     <script type="text/javascript">
         //comment has been added 
+        //adding anothet comment
         function validation() {
             var errorsummry ="";
             errorsummry += checkname();

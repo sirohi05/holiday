@@ -6,7 +6,7 @@
 <head runat="server">
     <title></title>
     <script type="text/javascript">
-        //comment has been added
+        //comment has been added 
         function validation() {
             var errorsummry ="";
             errorsummry += checkname();

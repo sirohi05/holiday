@@ -7,7 +7,7 @@
     <title></title>
     <script type="text/javascript">
         //comment has been added 
-        //adding another comment 1
+        //adding another comment 2
         function validation() {
             var errorsummry ="";
             errorsummry += checkname();
